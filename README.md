@@ -1,6 +1,6 @@
 # Face Detection and Face Recognition
 
-## JavaScript face recognition API for the browser implemented on top of tensorflow.js core 
+### JavaScript face recognition API for the browser implemented on top of tensorflow.js core 
 
 ### Running the Examples
 
